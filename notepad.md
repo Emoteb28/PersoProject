@@ -15,3 +15,6 @@ $ php bin/phpunit
 $ php bin/phpunit tests/Entity
 # Lance l'ensemble des tests dans le fichier ArticleTest.php
 $ php bin/phpunit tests/Entity/ArticleTest.php
+
+
+https://medium.com/@gary.houbre/symfony-mailer-et-si-je-tenvoi-un-mail-fe07f518658
